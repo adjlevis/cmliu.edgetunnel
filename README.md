@@ -1,3 +1,11 @@
+ps:  newworker.js  为新代码
+1.在cf编辑代码进去即可食用！
+2.也可以下载用pages方法上去
+3.都邦定域名更好
+4.设置变量uuid/订阅/反代ip
+5.ie输入域名/uuid 就出节点了…
+
+
 # edgetunnel
 这是一个基于 CF Worker 平台的脚本，在原版的基础上修改了显示 VLESS 配置信息转换为订阅内容。使用该脚本，你可以方便地将 VLESS 配置信息使用在线配置转换到 Clash 或 Singbox 等工具中。
 
